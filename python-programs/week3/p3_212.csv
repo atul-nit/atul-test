@@ -1,0 +1,15 @@
+test_sysdump.py::test_verifytar
+test_sysdump.py::test_generate_upload_check_statistics[shell-verify_meta_data]
+test_sysdump.py::test_generate_upload_check_statistics[cli-verify_meta_data]
+test_sysdump.py::test_sysdump_cleanup[cli]
+test_sysdump.py::test_sysdump_cleanup[shell]
+test_cli.py::test_hidden_commands
+test_cli.py::test_concurrent_cli_challenge_response
+test_cli.py::test_cli_command_parallel
+test_troubleshoot_tool_run.py::test_troubleshoot_tool_run_on_all_interfaces[log_has_interface_name]
+test_troubleshoot_tool_run.py::test_troubleshoot_log_size[log_size]
+test_troubleshoot_tool_run.py::test_troubleshoot_tool_run_on_all_interfaces[only_one_log]
+test_rsyslog.py::test_verify_text_data[priority-catfish]
+test_rsyslog.py::test_verify_text_data[time_stamp-catfish]
+test_rsyslog.py::test_verify_text_data[timezone-catfish]
+test_rsyslog.py::test_verify_structured_data[prefix-catfish]

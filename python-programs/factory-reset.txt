@@ -1,0 +1,3 @@
+test_factory_reset.py::test_factory_reset - P2
+
+test_factory_reset_static_dynamic_ip.py::test_factory_reset - P3
