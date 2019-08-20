@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Person>
+        <fname>Amit</fname>
+        <lname>Kumar</lname>
+        <city>Delhi</city>
+        <expertise name="java"/>
+    </Person>
+    <Person>
+        <fname>Raj</fname>
+        <lname>Kapoor</lname>
+        <city>Mumbai</city>
+        <expertise name="drama"/>
+    </Person>
+    <Person>
+        <fname>Fardeen</fname>
+        <lname>Khan</lname>
+        <city>Mumbai</city>
+        <expertise name="useless"/>
+    </Person>
+</Employees>
